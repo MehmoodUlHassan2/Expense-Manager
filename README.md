@@ -1,0 +1,5 @@
+Expense Manager is a Web application where you could track your monthly, weekly expenses. What items you buy, their category, your net Income and the remaining balance. ![D](https://github.com/MehmoodUlHassan2/Expense-Manager/assets/112276752/ffba67a8-2325-45f0-aee7-4dcdab51b76f)
+![categ](https://github.com/MehmoodUlHassan2/Expense-Manager/assets/112276752/07d4ee21-6366-4fa6-9991-2d7c7483f1ea)
+![D](https://github.com/MehmoodUlHassan2/Expense-Manager/assets/112276752/bc7feebd-8fb3-4a7b-9847-24e17a19b54e)
+![T](https://github.com/MehmoodUlHassan2/Expense-Manager/assets/112276752/42e0c71e-8f31-49c8-bc9f-b71f9829c3a7)
+![RT](https://github.com/MehmoodUlHassan2/Expense-Manager/assets/112276752/2b9ff23f-fd49-447e-9878-d21a51cc712e)
